@@ -1,4 +1,4 @@
-log in to MariaDB 
+#log in to MariaDB 
  mysql --user=student --password=student labs 
 -- SQL commands to set up MySQL database and table
 
